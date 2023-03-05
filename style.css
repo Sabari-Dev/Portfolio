@@ -288,8 +288,8 @@ footer p{
 footer i:hover{
   color: #fa8537;
 }
-/* if media width less than 600px */
-@media screen and (max-width:600px) {
+/* if media width less than 500px */
+@media screen and (max-width:500px) {
   header{
     height: 100vh;
     background:url(./image/bg3.jpg) no-repeat center/100% fixed;
